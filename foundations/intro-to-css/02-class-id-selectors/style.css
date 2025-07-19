@@ -1,0 +1,20 @@
+.number  {
+    font-family: verdana, sans-serif, 'Deajvu Sans';
+    background-color: lightpink;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+    background-color: white;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
